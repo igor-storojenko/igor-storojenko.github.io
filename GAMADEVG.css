@@ -1,0 +1,187 @@
+body{
+ 
+	background-color: #CACACA;
+	overflow:auto;
+}
+
+
+.divpage{
+	
+	width:100%;
+	margin:0 auto;
+	height:100%;
+	min-height: 1000px;
+	
+}
+
+.header{
+	
+
+	background-color:#444444;
+	margin: 0 ;
+	max-height:60px;
+	width:100%;
+	font-size:23px;
+	padding-bottom:1px;
+	padding-left: 1px;
+	padding-right:1px;
+	color: #DBDBDB;
+	
+}
+
+
+
+.logo{
+
+	max-height:61px;
+	max-width:310px;
+	margin-left: 0px;
+
+}
+
+/*font-family: 'Roboto', sans-serif;*/
+
+.folders{
+	
+	height:71.4%;
+	margin:0.4%;
+	padding-top:2%;
+
+}
+
+.block{
+	
+	border: 3px solid #2A2A2A;
+	float:left;
+	margin-right:0.4%;
+	margin-left:0.4%;
+	margin-top:0.4%;
+	margin-bottom:0.4%;
+	background-color:#0f0f0f;
+	width:32.2%;
+	height: 42%;
+	min-width:565px;
+	border-radius:8px;
+	overflow: auto;
+
+}
+.block:hover {
+	
+	border: 3px solid #22C48E;
+	
+}
+
+
+.info{
+	
+	background-position:center;
+	background-size:cover;
+	background-image:url(gg2.jpg);
+	
+}
+
+.professions{
+	
+	background-position:center;
+	background-image:url(pro1.jpg);
+	background-size:cover;
+	
+}
+
+.biographies{
+	
+	background-position:center;
+	background-size:cover;
+	background-image:url(bio2.jpg);
+	
+}
+
+.origins{
+	
+	background-position:center;
+	background-image:url(or3.jpg);
+	background-size:cover;
+	
+}
+
+.soft{
+	
+	background-position:center;
+	background-size:cover;
+	background-image:url(soft.jpg);
+	
+}
+
+.materials{
+	
+	background-position:center;
+	background-image:url(2ri.jpg);
+	background-size:cover;
+	
+}
+
+.footer{
+
+	color: #DBDBDB;
+	border: 1px solid #2A2A2A;
+	background-color:#444444;
+	height:41.7%;
+	min-width:1000px;
+	overflow: auto;
+}
+
+.footercontent{
+	
+	height: 68.9%;
+	width:64%;
+	min-width:850px;
+	margin:40 auto; 
+	padding-bottom:0px;
+	
+
+}
+
+.footerblock1{
+
+	width: 50%;
+	min-width: 750px;
+	min-height: 50px;
+	margin: 0 auto;
+}
+
+.footerlogo{
+
+	height: 50px;
+	overflow:auto;
+	margin-right: 35px;
+	border: 3px solid #444444;
+	
+}
+
+
+.footerlogo:hover {
+	
+	border: 3px solid #22C48E;
+	border-radius: 90%;
+
+}
+
+.footerblock2{
+
+	padding-top: 15px;
+	width: 10%;
+	min-width: 800px;
+	min-height: 40px;
+	height: 270px;
+
+}
+
+.textfooter{
+
+	min-width: 769px;
+	text-align: center;
+	font-size: 28px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+

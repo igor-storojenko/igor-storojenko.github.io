@@ -1,0 +1,67 @@
+			<center><div class="footerblock2">
+					
+					<ul class="footernav1">
+
+						<h2 class="hfooter">Геймдев</h2>
+
+						<li><a href="#hid1">Геймдев</a></li>
+						<li><a href="">Этапы геймдева</a></li>
+
+					</ul>
+
+					<ul class="footernav">
+
+						<h2 class="hfooter">Профессии</h2>
+
+						<li><a href="">Програмиссты</a></li>
+						<li><a href="">Дизайнеры</a></li>
+						<li><a href="">Звукорежиссеры</a></li>
+						<li><a href="">Геймдизайнеры</a></li>
+
+					</ul>
+
+
+
+					<ul class="footernav">
+						
+						<h2 class="hfooter">Биографии</h2>
+
+						<li><a href="">Програмиссты</a></li>
+						<li><a href="">Дизайнеры</a></li>
+						<li><a href="">Звукорежиссеры</a></li>
+						<li><a href="">Геймдизайнеры</a></li>
+
+					</ul>
+
+					<ul class="footernav">
+
+						<h2 class="hfooter">Источники</h2>
+
+						<li><a href="">Для Програмисстов</a></li>
+						<li><a href="">Для Дизайнеров</a></li>
+						<li><a href="">Для Звукорежиссеров</a></li>
+						<li><a href="">Для Геймдизайнеров</a></li>
+
+					</ul>
+					<ul class="footernav">
+
+						<h2 class="hfooter">Программы</h2>
+
+						<li><a href="">Для Програмисстов</a></li>
+						<li><a href="">Для Дизайнеров</a></li>
+						<li><a href="">Для Звукорежиссеров</a></li>
+						<li><a href="">Для Геймдизайнеров</a></li>
+
+					</ul>
+					<ul class="footernav2">
+
+						<h2 class="hfooter">Материалы</h2>
+
+						<li><a href="">Для Програмисстов</a></li>
+						<li><a href="">Для Дизайнеров</a></li>
+						<li><a href="">Для Звукорежиссеров</a></li>
+						<li><a href="">Для Геймдизайнеров</a></li>
+
+					</ul>		
+
+				</div></center>
