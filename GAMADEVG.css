@@ -45,7 +45,8 @@ body{
 	
 	height:60%;
 	margin:0.4%;
-	padding-top:1%;
+	padding-top:1.2%;
+	
 
 
 }
@@ -60,7 +61,7 @@ body{
 	margin-bottom:0.4%;
 	background-color:#0f0f0f;
 	width:32.2%;
-	height: 42%;
+	height: 44.8%;
 	min-width:565px;
 	border-radius:8px;
 	overflow: auto;
@@ -92,8 +93,8 @@ body{
 .biographies{
 	
 	background-position:center;
-	background-size:cover;
-	background-image:url(bio2.jpg);
+	background-size:cover ;
+	background-image:url(2sas.jpg);
 	
 }
 
