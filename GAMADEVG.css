@@ -45,7 +45,7 @@ body{
 	
 	height:60%;
 	margin:0.4%;
-	padding-top:1.2%;
+	padding-top:0.1%;
 	
 
 
@@ -53,23 +53,26 @@ body{
 
 .block{
 	
-	border: 3px solid #2A2A2A;
+	/*border: 1px solid #2A2A2A;*/
 	float:left;
 	margin-right:0.4%;
-	margin-left:0.4%;
-	margin-top:0.4%;
-	margin-bottom:0.4%;
+	margin-left:2%;
+	margin-top:0.9%;
+	margin-bottom:0.9%;
 	background-color:#0f0f0f;
-	width:32.2%;
+	width:30.3%;
 	height: 44.8%;
-	min-width:565px;
+	min-width:520px;
 	border-radius:8px;
 	overflow: auto;
 
 }
 .block:hover {
 	
-	border: 3px solid #22C48E;
+	/*border: 1px solid #22C48E;*/
+	position: relative;
+	bottom:5px; 
+	box-shadow: 0 0 15px rgba(2,2,2,2);
 	
 }
 
@@ -126,9 +129,9 @@ body{
 
 	margin-top:20px;
 	color: #DBDBDB;
-	border: 1px solid #2A2A2A;
+	border: 0px solid #2A2A2A;
 	background-color:#444444;
-	height:41.7%;
+	height:37%;
 	min-width:1000px;
 	overflow: auto;
 }
@@ -157,15 +160,18 @@ body{
 	height: 50px;
 	overflow:auto;
 	margin-right: 35px;
-	border: 3px solid #444444;
+	
 	
 }
 
 
 .footerlogo:hover {
 	
-	border: 3px solid #22C48E;
+	
 	border-radius: 90%;
+	position: relative;
+	bottom:5px; 
+	
 
 }
 

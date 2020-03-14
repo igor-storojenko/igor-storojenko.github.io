@@ -206,12 +206,47 @@ a{
 
 
 
+.divpro{
+
+	min-width: 460px;
+	margin-bottom:10px;
+	float: left;
+	text-align: justify;
+
+}
+
+.aprow{
+	
+	
+	border: 1px solid #F0F0F0 ;
+	max-width: 150px; 
+	margin-left:800px; 
+	margin-bottom:20px;
+	text-align: center;
+
+}
+
+
+
+.aprog{
+
+	
+	border: 1px solid  #999999;
+	max-width: 150px; 
+	margin-left:800px; 
+	margin-bottom:20px;
+	text-align: center;
+
+}
+
+
+
 .a-punkt-programm-white{
 
 	background-color: #999999 ;
 	border-radius: 8px;
 	min-width: 160px;
-	padding-left: 9px;
+	padding:4px 4px 4px 4px;
 	margin-bottom: 8px;
 	margin-right: 120pt;
 	font-size: 20px;
@@ -226,12 +261,12 @@ a{
 	color:#444444;
 	border-radius: 8px;
 	min-width: 160px;
-	padding-left: 9px;
+	padding:4px 4px 4px 4px;
+	padding-left: 3px;
 	margin-bottom: 8px;
 	margin-right: 120pt;
 	font-size: 20px;
 	float: right;
-
 
 }
 
@@ -244,17 +279,6 @@ a{
 	min-height: 150px;
 	
 }
-
-.footer{
-
-	color: #DBDBDB;
-	border: 1px solid #2A2A2A;
-	background-color:#444444;
-	height:41.7%;
-	width: 100%;
-	overflow: auto;
-}
-
 .lilogocontent{
 
 	float: left;
@@ -268,3 +292,14 @@ a{
 	margin-left: 250px;
 
 }
+
+.footer{
+
+	color: #DBDBDB;
+	border: 1px solid #2A2A2A;
+	background-color:#444444;
+	height:41.7%;
+	width: 100%;
+	overflow: auto;
+}
+
