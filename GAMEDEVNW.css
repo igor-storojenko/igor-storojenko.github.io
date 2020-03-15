@@ -291,8 +291,16 @@ a{
 	margin-top: 25px;
 	margin-left: 250px;
 
+	
 }
 
+
+.imgcontent{
+	
+	max-width: 750px; 
+	margin:40px 0px;
+
+}
 .footer{
 
 	color: #DBDBDB;
@@ -301,6 +309,26 @@ a{
 	height:41.7%;
 	width: 100%;
 	overflow: auto;
+}
+
+.footerlogo{
+
+	height: 50px;
+	overflow:auto;
+	margin-right: 35px;
+	
+	
+}
+
+
+.footerlogo:hover {
+	
+	
+	border-radius: %;
+	position: relative;
+	bottom:5px; 
+	
+
 }
 
 

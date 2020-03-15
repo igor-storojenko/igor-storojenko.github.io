@@ -62,7 +62,7 @@ body{
 	background-color:#0f0f0f;
 	width:30.3%;
 	height: 44.8%;
-	min-width:520px;
+	min-width:500px;
 	border-radius:8px;
 	overflow: auto;
 
@@ -73,6 +73,7 @@ body{
 	position: relative;
 	bottom:5px; 
 	box-shadow: 0 0 15px rgba(2,2,2,2);
+	
 	
 }
 
@@ -97,7 +98,7 @@ body{
 	
 	background-position:center;
 	background-size:cover ;
-	background-image:url(2sas.jpg);
+	background-image:url(3sas.jpg);
 	
 }
 
@@ -168,7 +169,7 @@ body{
 .footerlogo:hover {
 	
 	
-	border-radius: 90%;
+	border-radius: 1;
 	position: relative;
 	bottom:5px; 
 	
